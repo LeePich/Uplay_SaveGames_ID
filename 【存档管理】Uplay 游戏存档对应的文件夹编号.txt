@@ -1,4 +1,4 @@
-﻿[index]
+[index]
 [#1]>主题
 [#2]>无关紧要的
 [/index]
@@ -119,13 +119,14 @@
 （C:\Users\%UserName%\Saved Games、%UserProfile%\Saved Games）
 [steam=http://store.steampowered.com/app/48190]Assassin's Creed Brotherhood[/steam]
 [/quote]
+
 [quote]
 [steam=http://store.steampowered.com/app/241560]The Crew[/steam]网游类，无本地存档！会在我的文档里生成了一个数百M的文件夹，大概是地图缓存？
 [steam=http://store.steampowered.com/app/304390]For Honor[/steam]网游类，无本地存档！
 [steam=http://store.steampowered.com/app/365590]Tom Clancy’s The Division[/steam]网游类，无本地存档！
 [/quote]
 [quote]
-[steam=http://store.steampowered.com/app/256290]Child of Light[/steam]两版本存档通用，甚至别人的存档也可以直接用，是没有加密的。但据说[color=Red]育碧中囯、杉果[/color]卖的[steam=http://store.steampowered.com/app/256290]光之子[/steam]存档不通用、不给U点，甚至存档本身都不在Uplay文件夹内。[/quote]
+[color=Red]育碧中囯、杉果[/color]卖的[steam=http://store.steampowered.com/app/256290]光之子[/steam]与其他两处[steam=http://store.steampowered.com/app/256290]光之子[/steam]的存档不通用、不给U点，甚至存档本身都不在Uplay文件夹内。[/quote]
 [quote]
 大概[steam=http://store.steampowered.com/app/208480]Assassin's Creed III[/steam]及以前的游戏都是同一个存档文件夹，存档是否通用不确定。
 [/quote]
@@ -144,7 +145,7 @@
 :+:{挖鼻孔}
 [/quote]
 [quote]与此同时Ubisoft网络游戏的存档都是通用的，
-至少在全境封锁、试玩Steep Open Beta和周末试玩版彩虹6围攻是这样的，刺客信条3、4的多人部分也是如此。
+至少在全境封锁、周末试玩版彩虹6围攻是这样的，刺客信条3、4的多人部分也是如此。
 [/quote]
 [/hide]
 
