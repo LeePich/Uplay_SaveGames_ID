@@ -65,6 +65,7 @@
 [tr][td][align=center]1957[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/368500]Assassin's Creed Syndicate[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]2010[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/371660]Far Cry Primal[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]2029[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/371660]Far Cry Primal[/steam][/td][/tr]
+[tr][td][align=center]2052[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/375910]Anno 2205[/steam][/td][/tr]
 [tr][td][align=center]2170[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/374520]Champions of Anteria[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]2688[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/447040]Watch_Dogs 2[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]2970[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/584210]Tom Clancy's Ghost Recon Wildlands Open Beta[/steam][/backcolor][/td][/tr]
@@ -89,25 +90,24 @@
 [tr][td][align=center][backcolor=cyan]9797[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.ubi.com/ode/5a16b08788a7e3d65873c4c1.html]ODE[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]10885[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]10886[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/td][/tr]
-
 [/table]手头只有部分游戏，所以数据也不全，大家有其他Ubisoft游戏存档的文件夹名称也分享下吧
 :+:{赞}
 
 [size=5][b][color=Red]关于存档其他参考资料[/color][/b][/size]
 [quote][url=https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt]github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt[/url]（第一组数字是Uplay内部编号，第二组数字未知）感谢粉枪大佬提供的连接
-[url=t85575-1-1]steamcn.com/t85575-1-1[/url]
-这两个链接里所提供的数据都是[color=Red]Uplay内部编号[/color]，
+[url=https://github.com/Haoose/UPLAY_GAME_ID]github.com/Haoose/UPLAY_GAME_ID[/url]
+[url=https://steamcn.com/t85575-1-1]steamcn.com/t85575-1-1[/url]
+这两个链接里所提供的数据都是[color=Red]Uplay游戏内部编号[/color]，
 用Uplay下载游戏时，你可以看到Installers或uplay_download文件夹中会有数字文件夹，就是这个内部编号。
 一般存档编号跟Uplay内部编号是一样的，当然也部分游戏存档会存在别的地方，
 但是鉴于以上数据中繁杂的游戏版本，就不加入到列表当中，仅供大家参考了
 [/quote]
-
 [size=5][b][color=Red]一些其他游戏的存档位置、备注、说明[/color][/b][/size]
 [hide]其他一些游戏的存档并不在Uplay文件夹里，而是在别的位置。
 [quote]文档(我的文档)根目录下
 （C:\Users\%UserName%\Documents、%UserProfile%\Documents）
 （这里大部分一些配置文件，用来记录游戏设置参数（比如刺客信条系列），只有极少一部分游戏的存档）
-[steam=http://store.steampowered.com/app/375900]Trackmania Turbo[/steam] [url=t356818-1-1].[/url]
+[steam=http://store.steampowered.com/app/375900]Trackmania Turbo[/steam] [url=https://steamcn.com/t356818-1-1].[/url]
 [/quote]
 [quote]文档(我的文档)\My Games
 （这里很多也都是游戏配置文件，也会有其他非UbiSoft游戏的存档或者配置文件放在这）
@@ -115,7 +115,7 @@
 [/quote]
 [quote]文档(我的文档)Ubisoft
 （C:\Users\%UserName%\Documents\Ubisoft、%UserProfile%\Documents\Ubisoft）
-[steam=http://store.steampowered.com/app/33440]Driver San Francisco[/steam] [url=t294240-1-1].[/url]
+[steam=http://store.steampowered.com/app/33440]Driver San Francisco[/steam] [url=https://steamcn.com/t294240-1-1].[/url]
 [/quote]
 [quote]保存的游戏
 （Win10个人用户文件夹的“保存的游戏”）
@@ -125,7 +125,6 @@
 [quote]C:\%UserName%\LeePich\AppData\LocalLow\Thunder Lotus Games\Sundered
 [steam=http://store.steampowered.com/app/535480]Sundered[/steam] [url=https://store.ubi.com/cn/sundered/5965f15088a7e3b97e8b4567.html]Uplay[/url]上的第三方游戏
 [/quote]
-
 [quote]
 [steam=http://store.steampowered.com/app/241560]The Crew[/steam]网游类，无本地存档！会在我的文档里生成了一个数百M的文件夹，大概是地图缓存？
 [steam=http://store.steampowered.com/app/304390]For Honor[/steam]网游类，无本地存档！
@@ -139,7 +138,7 @@
 [/hide]
 
 [size=4][b][color=Red]关于Steam版的Ubisoft游戏、Uplay原版的Ubisoft游戏的DLC共用相关问题[/color][/b][/size]
-[hide][quote][url=forum.php?mod=redirect&goto=findpost&ptid=231877&pid=3403301]两版本DLC是通用的！[/url]
+[hide][quote][url=https://steamcn.com/forum.php?mod=redirect&goto=findpost&ptid=231877&pid=3403301]两版本DLC是通用的！[/url]
 [/quote]
 [quote]只是当Steam拥有本体，Uplay上激活Uplay版DLC时，受限于Steam不知道Uplay上激活了DLC，Steam可能不会下载相关文件或者不会加载相关文件。
 这种情况在纯单机游戏时表现明显。
@@ -161,7 +160,7 @@
 而是直接覆盖掉已拥有的游戏！同时覆盖旧Key显示新Key！
 
 大概同为Steam版时也会有类似状况，所以多账号或账号给小伙伴玩时要格外注意此种状况！
-[url=forum.php?mod=redirect&goto=findpost&ptid=165092&pid=2463427]这都是血的教训[/url]
+[url=https://steamcn.com/forum.php?mod=redirect&goto=findpost&ptid=165092&pid=2463427]这都是血的教训[/url]
 :+:{靠墙哭}[/quote]
 [quote]据说部分人（包括我自己）首次激活Steam版游戏时会出现Uplay客户端“商城”消失的情况，
 这时只要再次激活一个Uplay版游戏就会恢复了。（或者找客服问问……）
@@ -171,5 +170,5 @@
 [page]
 [attachimg]314859[/attachimg]
 https://steamcn.com/t232432-1-1
-https://github.com/LeePich/Uplay
+https://github.com/LeePich/Uplay_SaveGames_ID
 https://gitee.com/LeePich/Uplay
