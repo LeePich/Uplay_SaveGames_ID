@@ -40,6 +40,7 @@
 [tr][td][align=center][backcolor=cyan]625[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/260210]Assassin's Creed Liberation HD[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]632[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/260210]Assassin's Creed Liberation HD[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]635[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/359550]Tom Clancy's Rainbow Six Siege[/steam][/backcolor][/td][/tr]
+[tr][td][align=center][backcolor=cyan]659[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/260230]Valiant Hearts: The Great War[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]661[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/260230]Valiant Hearts: The Great War[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]664[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/277590]Assassin's Creed Freedom Cry[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]665[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/277590]Assassin's Creed Freedom Cry[/steam][/td][/tr]
