@@ -124,7 +124,7 @@
 （C:\Users\%UserName%\Saved Games、%UserProfile%\Saved Games）
 [steam=http://store.steampowered.com/app/48190]Assassin's Creed Brotherhood[/steam]
 [/quote]
-[quote]C:\%UserName%\LeePich\AppData\LocalLow\Thunder Lotus Games\Sundered
+[quote]C:\Users\%UserName%\AppData\LocalLow\Thunder Lotus Games\Sundered
 [steam=http://store.steampowered.com/app/535480]Sundered[/steam] [url=https://store.ubi.com/cn/sundered/5965f15088a7e3b97e8b4567.html]Uplay[/url]上的第三方游戏
 [/quote]
 [quote]
