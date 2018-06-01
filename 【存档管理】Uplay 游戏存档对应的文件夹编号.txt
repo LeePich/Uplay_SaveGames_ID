@@ -14,7 +14,7 @@
 [tr][td][align=center][backcolor=cyan]3[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/48110]Silent Hunter 5[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=lime]4[/backcolor][/align][/td][td][align=center][backcolor=lime]Uplay/Steam[/backcolor][/align][/td][td][backcolor=lime][steam=http://store.steampowered.com/app/33230]Assassin's Creed II Deluxe Edition[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=lime]11[/backcolor][/align][/td][td][align=center][backcolor=lime]Uplay/Steam[/backcolor][/align][/td][td][backcolor=lime][steam=http://store.steampowered.com/app/33320]Prince of Persia: The Forgotten Sands[/steam][/backcolor][/td][/tr]
-[tr][td][align=center][backcolor=cyan]20[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Shaun White Snowboarding[/steam][/backcolor][/td][/tr]
+[tr][td][align=center][backcolor=cyan]20[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Shaun White Snowboarding[/backcolor][/td][/tr]
 [tr][td][align=center]40[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/201870]Assassin's Creed Revelations[/steam][/td][/tr]
 [tr][td][align=center][backcolor=lime]44[/backcolor][/align][/td][td][align=center][backcolor=lime]Uplay/Steam[/backcolor][/align][/td][td][backcolor=lime][steam=http://store.steampowered.com/app/229790]Might & Magic: Heroes VI - Shades of Darkness[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]46[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/220240]Far Cry 3[/steam][/backcolor][/td][/tr]
@@ -95,7 +95,7 @@
 [tr][td][align=center][backcolor=cyan]10885[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]10886[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/td][/tr]
 [/table]手头只有部分游戏，所以数据也不全，大家有其他Ubisoft游戏存档的文件夹名称也分享下吧
-:+:{赞}
+{:17_1008:}
 
 [size=5][b][color=Red]关于存档其他参考资料[/color][/b][/size]
 [quote][url=https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt]github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt[/url]（第一组数字是Uplay内部编号，第二组数字未知）感谢粉枪大佬提供的连接
