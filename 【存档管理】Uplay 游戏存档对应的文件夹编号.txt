@@ -67,6 +67,7 @@
 [tr][td][align=center][backcolor=cyan]1848[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/359600]Assassin's Creed Chronicles Russia[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]1849[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/359610]Assassin's Creed Chronicles India[/steam][/td][/tr]
 [tr][td][align=center]1850[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/359600]Assassin's Creed Chronicles Russia[/steam][/td][/tr]
+[tr][td][align=center][backcolor=cyan]1875[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/368500]Assassin's Creed Syndicate[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]1956[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/368500]Assassin's Creed Syndicate[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]1957[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/368500]Assassin's Creed Syndicate[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]2010[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/371660]Far Cry Primal[/steam][/backcolor][/td][/tr]
@@ -114,11 +115,11 @@
 [hide]其他一些游戏的存档并不在Uplay文件夹里，而是在别的位置。
 [quote]文档(我的文档)根目录下
 （C:\Users\%UserName%\Documents、%UserProfile%\Documents）
-（这里大部分一些配置文件，用来记录游戏设置参数（比如刺客信条系列），只有极少一部分游戏的存档）
+（这里一般是UbiSoft游戏的配置文件，用来记录游戏设置参数（比如刺客信条系列），只有极少一部分游戏的存档）
 [steam=http://store.steampowered.com/app/375900]Trackmania Turbo[/steam] [url=https://steamcn.com/t356818-1-1].[/url]
 [/quote]
 [quote]文档(我的文档)\My Games
-（这里很多也都是游戏配置文件，也会有其他非UbiSoft游戏的存档或者配置文件放在这）
+（这里很多也都是UbiSoft游戏的配置文件，也会有其他非UbiSoft游戏的存档或者配置文件放在这）
 （C:\Users\%UserName%\Documents\My Games、%UserProfile%\Documents\My Games）
 [/quote]
 [quote]文档(我的文档)Ubisoft
@@ -134,12 +135,13 @@
 [steam=http://store.steampowered.com/app/535480]Sundered[/steam] [url=https://store.ubi.com/cn/sundered/5965f15088a7e3b97e8b4567.html]Uplay[/url]上的第三方游戏
 [/quote]
 [quote]
-[steam=http://store.steampowered.com/app/241560]The Crew[/steam]网游类，无本地存档！会在我的文档里生成了一个数百M的文件夹，大概是地图缓存？
-[steam=http://store.steampowered.com/app/304390]For Honor[/steam]网游类，无本地存档！
-[steam=http://store.steampowered.com/app/365590]Tom Clancy’s The Division[/steam]网游类，无本地存档！
+[steam=http://store.steampowered.com/app/241560]The Crew[/steam]网游类，未找到本地存档！会在我的文档里生成了一个数百M的文件夹，大概是地图缓存？
+[steam=http://store.steampowered.com/app/304390]For Honor[/steam]网游类，未找到本地存档！
+[steam=http://store.steampowered.com/app/365590]Tom Clancy’s The Division[/steam]网游类，未找到本地存档！
+[steam=http://store.steampowered.com/app/646910]The Crew 2[/steam]网游类，未找到本地存档！
 [/quote]
 [quote]
-[color=Red]育碧中囯、杉果[/color]卖的[steam=http://store.steampowered.com/app/256290]光之子[/steam]与其他两处[steam=http://store.steampowered.com/app/256290]光之子[/steam]的存档不通用、不给U点，甚至存档本身都不在Uplay文件夹内。[/quote]
+[color=Red]育碧中囯、杉果[/color]卖的[steam=http://store.steampowered.com/app/256290]光之子[/steam]与其他两处购买的[steam=http://store.steampowered.com/app/256290]光之子[/steam]的存档不通用、不给U点，甚至存档本身都不在Uplay文件夹内。[/quote]
 [quote]
 大概[steam=http://store.steampowered.com/app/208480]Assassin's Creed III[/steam]及以前的游戏都是同一个存档文件夹，存档是否通用不确定。
 [/quote]
