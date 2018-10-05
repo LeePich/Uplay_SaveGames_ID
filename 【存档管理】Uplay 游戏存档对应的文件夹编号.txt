@@ -96,6 +96,7 @@
 [tr][td][align=center]4923[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/582160]Assassin's Creed Origins[/steam][/td][/tr]
 [tr][td][align=center]4984[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/584210]Tom Clancy's Ghost Recon Wildlands Open Beta[/steam]
 [steam=http://store.steampowered.com/app/719690]Tom Clancy's Ghost Recon Wildlands Ghost War PVP Open Beta[/steam][/td][/tr]
+[tr][td][align=center]5092[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]9797[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.ubi.com/ode/5a16b08788a7e3d65873c4c1.html]ODE[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]10885[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]10886[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/td][/tr]
@@ -122,7 +123,7 @@
 （这里很多也都是UbiSoft游戏的配置文件，也会有其他非UbiSoft游戏的存档或者配置文件放在这）
 （C:\Users\%UserName%\Documents\My Games、%UserProfile%\Documents\My Games）
 [/quote]
-[quote]文档(我的文档)Ubisoft
+[quote]文档(我的文档)\Ubisoft
 （C:\Users\%UserName%\Documents\Ubisoft、%UserProfile%\Documents\Ubisoft）
 [steam=http://store.steampowered.com/app/33440]Driver San Francisco[/steam] [url=https://steamcn.com/t294240-1-1].[/url]
 [/quote]
