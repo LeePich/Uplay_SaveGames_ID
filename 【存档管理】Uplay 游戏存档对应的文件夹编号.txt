@@ -7,7 +7,7 @@
 两平台之间早期版本的游戏存档是不通用的，好像因为当初存档是用Key加密的。
 最近一些版本的游戏存档好像是用帐号序列加密的，所以部分能通用。
 
-以下内容通常位于X:\Ubisoft\Ubisoft Game Launcher(Uplay安装目录)\SaveGames\帐号序列\
+以下内容通常位于X:\Ubisoft\Ubisoft Game Launcher(Uplay安装目录)\SaveGames\帐号序列(或者有人称为AccountID)\
 [table=75%]
 [tr][td][align=center]文件夹名称[/align][/td][td][align=center]隶属平台[/align][/td][td][align=center]隶属游戏[/align][/td][/tr]
 [tr][td][align=center][backcolor=lime]2[/backcolor][/align][/td][td][align=center][backcolor=lime]Uplay/Steam[/backcolor][/align][/td][td][backcolor=lime][steam=http://store.steampowered.com/app/33229]Tom Clancy's Splinter Cell Conviction[/steam][/backcolor][/td][/tr]
@@ -20,7 +20,7 @@
 [tr][td][align=center][backcolor=cyan]46[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/220240]Far Cry 3[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]47[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/229790]Might & Magic: Heroes VI - Shades of Darkness[/steam] CHN[/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]53[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/212630]Tom Clancy's Ghost Recon Future Soldier[/steam][/backcolor][/td][/tr]
-[tr][td][align=center][backcolor=lime]54[/backcolor][/align][/td][td][align=center][backcolor=lime]Uplay/Steam[/backcolor][/align][/td][td][backcolor=lime][steam=http://store.steampowered.com/app/208480]Assassin's Creed III[/steam][/backcolor][/td][/tr]
+[tr][td][align=center][backcolor=lime]54[/backcolor][/align][/td][td][align=center][backcolor=lime]Uplay/Steam[/backcolor][/align][/td][td][backcolor=lime][steam=http://store.steampowered.com/app/208480]Assassin's Creed III[/steam](包含豪华版)[/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]78[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/220160]Trials Evolution: Gold Edition[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]91[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/235600]Tom Clancy's Splinter Cell Blacklist[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]205[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/233270]Far Cry 3 - Blood Dragon[/steam][/backcolor][/td][/tr]
@@ -141,6 +141,12 @@
 [steam=http://store.steampowered.com/app/304390]For Honor[/steam]网游类，未找到本地存档！
 [steam=http://store.steampowered.com/app/365590]Tom Clancy’s The Division[/steam]网游类，未找到本地存档！
 [steam=http://store.steampowered.com/app/646910]The Crew 2[/steam]网游类，未找到本地存档！
+[/quote]
+[quote]
+[steam=http://store.steampowered.com/app/647570]Transference[/steam]注册表类
+[HKEY_CURRENT_USER\Software\Ubisoft\Transference]（计算机\HKEY_CURRENT_USER\Software\Ubisoft\Transference）
+Uplay ID：10871
+Steam ID：10873
 [/quote]
 [quote]
 [color=Red]育碧中囯、杉果[/color]卖的[steam=http://store.steampowered.com/app/256290]光之子[/steam]与其他两处购买的[steam=http://store.steampowered.com/app/256290]光之子[/steam]的存档不通用、不给U点，甚至存档本身都不在Uplay文件夹内。[/quote]
