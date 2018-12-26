@@ -78,8 +78,8 @@
 [tr][td][align=center][backcolor=cyan]2970[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/584210]Tom Clancy's Ghost Recon Wildlands Open Beta[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]3097[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/455420]Champions of Anteria[/steam][/backcolor] Demo[/td][/tr]
 [tr][td][align=center]3098[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/455420]Champions of Anteria[/steam] Demo[/td][/tr]
-[tr][td][align=center][backcolor=cyan]3130[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/446560]Just Dance 2017[/steam][/backcolor]
-[tr][td][align=center]3131[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/446560]Just Dance 2017[/steam][/td][/tr][/td][/tr]
+[tr][td][align=center][backcolor=cyan]3130[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/446560]Just Dance 2017[/steam][/backcolor][/td][/tr]
+[tr][td][align=center]3131[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/446560]Just Dance 2017[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]3279[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/460920]Steep[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]3280[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/460920]Steep[/steam][/td][/tr]
 [tr][td][align=center]3301[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/435480]Trials of the Blood Dragon[/steam][/td][/tr]
@@ -120,6 +120,9 @@
 （C:\Users\%UserName%\Documents、%UserProfile%\Documents）
 （这里一般是UbiSoft游戏的配置文件，用来记录游戏设置参数（比如刺客信条系列），只有极少一部分游戏的存档）
 [steam=http://store.steampowered.com/app/375900]Trackmania Turbo[/steam] [url=https://steamcn.com/t356818-1-1].[/url]
+The Settlers 1993
+The Settlers 2
+The Settlers 7 - History Edition
 [/quote]
 [quote]文档(我的文档)\My Games
 （这里很多也都是UbiSoft游戏的配置文件，也会有其他非UbiSoft游戏的存档或者配置文件放在这）
@@ -143,8 +146,8 @@
 [steam=http://store.steampowered.com/app/365590]Tom Clancy’s The Division[/steam]网游类，未找到本地存档！
 [steam=http://store.steampowered.com/app/646910]The Crew 2[/steam]网游类，未找到本地存档！
 [/quote]
-[quote]
-[steam=http://store.steampowered.com/app/647570]Transference[/steam]注册表类
+[quote]注册表类
+[steam=http://store.steampowered.com/app/647570]Transference[/steam] [url=https://steamcn.com/t441478-1-1].[/url]
 [HKEY_CURRENT_USER\Software\Ubisoft\Transference]（计算机\HKEY_CURRENT_USER\Software\Ubisoft\Transference）
 Uplay ID：10871
 Steam ID：10873
@@ -188,6 +191,6 @@ Steam ID：10873
 
 [page]
 [attachimg]314859[/attachimg]
-https://steamcn.com/t232432-1-1
-https://github.com/LeePich/Uplay_SaveGames_ID
-https://gitee.com/LeePich/Uplay
+[url]https://steamcn.com/t232432-1-1[/url]
+[url]https://github.com/LeePich/Uplay_SaveGames_ID[/url]
+[url]https://gitee.com/LeePich/Uplay[/url]
