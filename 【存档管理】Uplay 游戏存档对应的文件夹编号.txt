@@ -30,6 +30,7 @@
 [tr][td][align=center]318[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/245490]Trials Fusion[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]402[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/238750]Might & Magic X - Legacy[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]420[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/298110]Far Cry 4[/steam][/backcolor][/td][/tr]
+[tr][td][align=center]424[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/33440]Driver San Francisco[/steam]并不确定[/td][/tr]
 [tr][td][align=center]437[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/242050]Assassin's Creed IV Black Flag[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]441[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/242050]Assassin's Creed IV Black Flag[/steam][/backcolor] RUS[/td][/tr]
 [tr][td][align=center][backcolor=cyan]442[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/242050]Assassin's Creed IV Black Flag[/steam][/backcolor] Asia[/td][/tr]
@@ -61,6 +62,7 @@
 [tr][td][align=center][backcolor=cyan]1651[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/354380]Assassin's Creed Chronicles China[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]1771[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/460930]Tom Clancy's Ghost Recon Wildlands[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]1803[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/552520]Far Cry 5[/steam][/backcolor][/td][/tr]
+[tr][td][align=center]1832[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/339230]ZOMBI[/steam]并不确定[/td][/tr]
 [tr][td][align=center]1841[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/354380]Assassin's Creed Chronicles China[/steam][/td][/tr]
 [tr][td][align=center]1843[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/359550]Tom Clancy's Rainbow Six Siege[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]1847[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/359610]Assassin's Creed Chronicles India[/steam][/backcolor][/td][/tr]
@@ -99,7 +101,9 @@
 [steam=http://store.steampowered.com/app/719690]Tom Clancy's Ghost Recon Wildlands Ghost War PVP Open Beta[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5059[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]5092[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/steam][/td][/tr]
-[tr][td][align=center][backcolor=cyan]5210[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam][/backcolor][/td][/tr]
+[tr][td][align=center][backcolor=cyan]5210[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam][/backcolor] [url=https://steamcn.com/t466212-1-1].[/url][/td][/tr]
+[tr][td][align=center]5211[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam] [url=https://steamcn.com/t466212-1-1].[/url][/td][/tr]
+[tr][td][align=center][backcolor=cyan]5233[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/1004390]Trials Rising - Open Beta[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]9797[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.ubi.com/ode/5a16b08788a7e3d65873c4c1.html]ODE[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]10885[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]10886[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/td][/tr]
@@ -160,6 +164,9 @@ Steam ID：10873
 [/quote]
 [/hide]
 
+[size=4][b][color=Red]关于《Steam版激活至Uplay上的种种问题》的解答[/color][/b][/size]
+https://steamcn.com/t464415-1-1
+
 [size=4][b][color=Red]关于Steam版的Ubisoft游戏、Uplay原版的Ubisoft游戏的DLC共用相关问题[/color][/b][/size]
 [hide][quote][url=https://steamcn.com/forum.php?mod=redirect&goto=findpost&ptid=231877&pid=3403301]两版本DLC是通用的！[/url]
 [/quote]
@@ -194,4 +201,3 @@ Steam ID：10873
 [attachimg]314859[/attachimg]
 [url]https://steamcn.com/t232432-1-1[/url]
 [url]https://github.com/LeePich/Uplay_SaveGames_ID[/url]
-[url]https://gitee.com/LeePich/Uplay[/url]
