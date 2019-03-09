@@ -90,6 +90,8 @@
 [tr][td][align=center][backcolor=cyan]3539[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/582160]Assassin's Creed Origins[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]3559[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/460930]Tom Clancy's Ghost Recon Wildlands[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]3584[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/213670]South Park: The Stick of Truth[/steam][/backcolor][/td][/tr]
+[tr][td][align=center][backcolor=cyan]3600[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/641080]Trials Rising[/steam][/backcolor][/td][/tr]
+[tr][td][align=center]3601[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/641080]Trials Rising[/steam][/td][/tr]
 [tr][td][align=center]3619[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/447040]Watch_Dogs 2[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]3774[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/562810]Monopoly Plus[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]3775[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/562810]Monopoly Plus[/steam][/td][/tr]
