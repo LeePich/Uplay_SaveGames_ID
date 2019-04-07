@@ -103,8 +103,8 @@
 [steam=http://store.steampowered.com/app/719690]Tom Clancy's Ghost Recon Wildlands Ghost War PVP Open Beta[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5059[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]5092[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/steam][/td][/tr]
-[tr][td][align=center][backcolor=cyan]5183[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/911400]Assassin's Creed 3 Remastered[/steam][/backcolor][/td][/tr]
-[tr][td][align=center]5184[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/911400]Assassin's Creed 3 Remastered[/steam][/td][/tr]
+[tr][td][align=center][backcolor=cyan]5183[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/911400]Assassin's Creed 3 Remastered[/steam][/backcolor] 解放存档位于“文档”[/td][/tr]
+[tr][td][align=center]5184[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/911400]Assassin's Creed 3 Remastered[/steam] 解放存档位于“文档”[/td][/tr]
 [tr][td][align=center][backcolor=cyan]5210[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam][/backcolor] [url=https://steamcn.com/t466212-1-1].[/url][/td][/tr]
 [tr][td][align=center]5211[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam] [url=https://steamcn.com/t466212-1-1].[/url][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5233[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/1004390]Trials Rising - Open Beta[/steam][/backcolor][/td][/tr]
@@ -132,6 +132,7 @@
 The Settlers 1993
 The Settlers 2
 The Settlers 7 - History Edition
+Assassin's Creed Liberation HD\Saves\AssassinsCreedLiberationSaveGame0.sav(刺客信条3解放 重制版，[color=Red]这就是个奇葩[/color])
 [/quote]
 [quote]文档(我的文档)\My Games
 （这里很多也都是UbiSoft游戏的配置文件，也会有其他非UbiSoft游戏的存档或者配置文件放在这）
@@ -148,6 +149,10 @@ The Settlers 7 - History Edition
 [/quote]
 [quote]C:\Users\%UserName%\AppData\LocalLow\Thunder Lotus Games\Sundered
 [steam=http://store.steampowered.com/app/535480]Sundered[/steam] [url=https://store.ubi.com/cn/sundered/5965f15088a7e3b97e8b4567.html]Uplay[/url]上的第三方游戏
+[/quote]
+[quote]
+Steam存档文件夹(Steam安装文件夹\userdata\账号短ID\)
+[steam=https://store.steampowered.com/app/276770]Toy Soldiers: War Chest[/steam]  [url=https://www.ubisoft.com/en-us/game/toy-soldiers-war-chest]Steam[/url]上发售的，存档276770
 [/quote]
 [quote]
 [steam=http://store.steampowered.com/app/241560]The Crew[/steam]网游类，未找到本地存档！会在我的文档里生成了一个数百M的文件夹，大概是地图缓存？
