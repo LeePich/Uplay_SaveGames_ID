@@ -109,14 +109,15 @@
 [tr][td][align=center]5092[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5183[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/911400]Assassin's Creed 3 Remastered[/steam][/backcolor] 解放存档位于“文档”[/td][/tr]
 [tr][td][align=center]5184[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/911400]Assassin's Creed 3 Remastered[/steam] 解放存档位于“文档”[/td][/tr]
-[tr][td][align=center][backcolor=cyan]5210[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam][/backcolor] [url=https://steamcn.com/t466212-1-1].[/url][/td][/tr]
-[tr][td][align=center]5211[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam] [url=https://steamcn.com/t466212-1-1].[/url][/td][/tr]
+[tr][td][align=center][backcolor=cyan]5210[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam][/backcolor] [url=https://keylol.com/t466212-1-1].[/url][/td][/tr]
+[tr][td][align=center]5211[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam] [url=https://keylol.com/t466212-1-1].[/url][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5233[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/1004390]Trials Rising - Open Beta[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5277[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/950050]StarLink: Battle for Atlas[/steam](星链：阿特拉斯之战)[/backcolor][/td][/tr]
-
+[tr][td][align=center][backcolor=cyan]5408[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Rabbids Coding![/backcolor] 大概[/td][/tr]
 [tr][td][align=center][backcolor=cyan]9797[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.ubi.com/ode/5a16b08788a7e3d65873c4c1.html]ODE[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]10885[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]10886[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/td][/tr]
+[tr][td][align=center][backcolor=cyan]11903[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Tom Clancy's Ghost Recon Breakpoint[/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]13800[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Anno 1800 - Open Beta[/backcolor] 大概[/td][/tr]
 [/table]手头只有部分游戏，所以数据也不全，大家有其他Ubisoft游戏存档的文件夹名称也分享下吧
 {:17_1008:}
@@ -124,7 +125,7 @@
 [size=5][b][color=Red]关于存档其他参考资料[/color][/b][/size]
 [quote][url=https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt]github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt[/url]（第一组数字是Uplay内部编号，第二组数字未知）感谢粉枪大佬提供的连接
 [url=https://github.com/Haoose/UPLAY_GAME_ID]github.com/Haoose/UPLAY_GAME_ID[/url]
-[url=https://steamcn.com/t85575-1-1]steamcn.com/t85575-1-1[/url]
+[url=https://keylol.com/t85575-1-1]keylol.com/t85575-1-1[/url]
 这两个链接里所提供的数据都是[color=Red]Uplay游戏内部编号[/color]，
 用Uplay下载游戏时，你可以看到Installers或uplay_download文件夹中会有数字文件夹，就是这个内部编号。
 一般存档编号跟Uplay内部编号是一样的，当然也部分游戏存档会存在别的地方，
@@ -135,7 +136,7 @@
 [quote]文档(我的文档)根目录下
 （C:\Users\%UserName%\Documents、%UserProfile%\Documents）
 （这里一般是UbiSoft游戏的配置文件，用来记录游戏设置参数（比如刺客信条系列），只有极少一部分游戏的存档）
-[steam=http://store.steampowered.com/app/375900]Trackmania Turbo[/steam] [url=https://steamcn.com/t356818-1-1].[/url]
+[steam=http://store.steampowered.com/app/375900]Trackmania Turbo[/steam] [url=https://keylol.com/t356818-1-1].[/url]
 The Settlers 1993
 The Settlers 2
 The Settlers 7 - History Edition
@@ -147,7 +148,7 @@ Assassin's Creed Liberation HD\Saves\AssassinsCreedLiberationSaveGame0.sav(刺�
 [/quote]
 [quote]文档(我的文档)\Ubisoft
 （C:\Users\%UserName%\Documents\Ubisoft、%UserProfile%\Documents\Ubisoft）
-[steam=http://store.steampowered.com/app/33440]Driver San Francisco[/steam] [url=https://steamcn.com/t294240-1-1].[/url]
+[steam=http://store.steampowered.com/app/33440]Driver San Francisco[/steam] [url=https://keylol.com/t294240-1-1].[/url]
 [/quote]
 [quote]保存的游戏
 （Win10个人用户文件夹的“保存的游戏”）
@@ -168,7 +169,7 @@ Steam存档文件夹(Steam安装文件夹\userdata\账号短ID\)
 [steam=http://store.steampowered.com/app/646910]The Crew 2[/steam]网游类，未找到本地存档！
 [/quote]
 [quote]注册表类
-[steam=http://store.steampowered.com/app/647570]Transference[/steam] [url=https://steamcn.com/t441478-1-1].[/url]
+[steam=http://store.steampowered.com/app/647570]Transference[/steam] [url=https://keylol.com/t441478-1-1].[/url]
 [HKEY_CURRENT_USER\Software\Ubisoft\Transference]（计算机\HKEY_CURRENT_USER\Software\Ubisoft\Transference）
 Uplay ID：10871
 Steam ID：10873
@@ -181,10 +182,10 @@ Steam ID：10873
 [/hide]
 
 [size=4][b][color=Red]关于《Steam版激活至Uplay上的种种问题》的解答[/color][/b][/size]
-https://steamcn.com/t464415-1-1
+https://keylol.com/t464415-1-1
 
 [size=4][b][color=Red]关于Steam版的Ubisoft游戏、Uplay原版的Ubisoft游戏的DLC共用相关问题[/color][/b][/size]
-[hide][quote][url=https://steamcn.com/forum.php?mod=redirect&goto=findpost&ptid=231877&pid=3403301]两版本DLC是通用的！[/url]
+[hide][quote][url=https://keylol.com/forum.php?mod=redirect&goto=findpost&ptid=231877&pid=3403301]两版本DLC是通用的！[/url]
 [/quote]
 [quote]只是当Steam拥有本体，Uplay上激活Uplay版DLC时，受限于Steam不知道Uplay上激活了DLC，Steam可能不会下载相关文件或者不会加载相关文件。
 这种情况在纯单机游戏时表现明显。
@@ -206,7 +207,7 @@ https://steamcn.com/t464415-1-1
 而是直接覆盖掉已拥有的游戏！同时覆盖旧Key显示新Key！
 
 大概同为Steam版时也会有类似状况，所以多账号或账号给小伙伴玩时要格外注意此种状况！
-[url=https://steamcn.com/forum.php?mod=redirect&goto=findpost&ptid=165092&pid=2463427]这都是血的教训[/url]
+[url=https://keylol.com/forum.php?mod=redirect&goto=findpost&ptid=165092&pid=2463427]这都是血的教训[/url]
 :+:{靠墙哭}[/quote]
 [quote]据说部分人（包括我自己）首次激活Steam版游戏时会出现Uplay客户端“商城”消失的情况，
 这时只要再次激活一个Uplay版游戏就会恢复了。（或者找客服问问……）
@@ -215,5 +216,5 @@ https://steamcn.com/t464415-1-1
 
 [page]
 [attachimg]314859[/attachimg]
-[url]https://steamcn.com/t232432-1-1[/url]
+[url]https://keylol.com/t232432-1-1[/url]
 [url]https://github.com/LeePich/Uplay_SaveGames_ID[/url]
