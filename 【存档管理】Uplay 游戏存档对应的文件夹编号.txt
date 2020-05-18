@@ -1,7 +1,8 @@
-[index]
-[#1]>主题
-[#2]>无关紧要的
-[/index]
+[spoil]
+[url]https://keylol.com/t232432-1-1[/url]
+[url]https://github.com/LeePich/Uplay_SaveGames_ID[/url]
+[/spoil]
+
 众所周知，Ubisoft游戏的Steam版、Uplay版是在同一个Uplay账户中是可以同时存在的，
 闲着没事，统计了下Ubisoft游戏存档的文件夹名称。
 两平台之间早期版本的游戏存档是不通用的，好像因为当初存档是用Key加密的。
@@ -134,7 +135,7 @@
 但是鉴于以上数据中繁杂的游戏版本，就不加入到列表当中，仅供大家参考了
 [/quote]
 [size=5][b][color=Red]一些其他游戏的存档位置、备注、说明[/color][/b][/size]
-[hide]其他一些游戏的存档并不在Uplay文件夹里，而是在别的位置。
+[spoil]其他一些游戏的存档并不在Uplay文件夹里，而是在别的位置。
 [quote]文档(我的文档)根目录下
 （C:\Users\%UserName%\Documents、%UserProfile%\Documents）
 （这里一般是UbiSoft游戏的配置文件，用来记录游戏设置参数（比如刺客信条系列），只有极少一部分游戏的存档）
@@ -181,13 +182,10 @@ Steam ID：10873
 [quote]
 大概[steam=http://store.steampowered.com/app/208480]Assassin's Creed III[/steam]及以前的游戏都是同一个存档文件夹，存档是否通用不确定。
 [/quote]
-[/hide]
-
-[size=4][b][color=Red]关于《Steam版激活至Uplay上的种种问题》的解答[/color][/b][/size]
-https://keylol.com/t464415-1-1
+[/spoil]
 
 [size=4][b][color=Red]关于Steam版的Ubisoft游戏、Uplay原版的Ubisoft游戏的DLC共用相关问题[/color][/b][/size]
-[hide][quote][url=https://keylol.com/forum.php?mod=redirect&goto=findpost&ptid=231877&pid=3403301]两版本DLC是通用的！[/url]
+[spoil][quote][url=https://keylol.com/forum.php?mod=redirect&goto=findpost&ptid=231877&pid=3403301]两版本DLC是通用的！[/url]
 [/quote]
 [quote]只是当Steam拥有本体，Uplay上激活Uplay版DLC时，受限于Steam不知道Uplay上激活了DLC，Steam可能不会下载相关文件或者不会加载相关文件。
 这种情况在纯单机游戏时表现明显。
@@ -201,10 +199,10 @@ https://keylol.com/t464415-1-1
 [quote]与此同时Ubisoft网络游戏的存档都是通用的，
 至少在全境封锁、周末试玩版彩虹6围攻是这样的，刺客信条3、4的多人部分也是如此。
 [/quote]
-[/hide]
+[/spoil]
 
 [size=4][b][color=Red]关于激活的一些问题！[/color][/b][/size]
-[hide][quote]上面提到Steam版和Uplay版激活后是可以共存的，
+[spoil][quote]上面提到Steam版和Uplay版激活后是可以共存的，
 然而当同为Uplay版的同一个游戏再次激活时，Uplay客户端并不会像Steam客户端那样提示已拥有，
 而是直接覆盖掉已拥有的游戏！同时覆盖旧Key显示新Key！
 
@@ -214,9 +212,12 @@ https://keylol.com/t464415-1-1
 [quote]据说部分人（包括我自己）首次激活Steam版游戏时会出现Uplay客户端“商城”消失的情况，
 这时只要再次激活一个Uplay版游戏就会恢复了。（或者找客服问问……）
 [/quote]
-[/hide]
+[/spoil]
 
-[page]
+[size=4][b][color=Red]关于《Steam版激活至Uplay上的种种问题》的解答[/color][/b][/size]
+https://keylol.com/t464415-1-1
+
+无关紧要的
+[spoil]
 [attachimg]314859[/attachimg]
-[url]https://keylol.com/t232432-1-1[/url]
-[url]https://github.com/LeePich/Uplay_SaveGames_ID[/url]
+[/spoil]
