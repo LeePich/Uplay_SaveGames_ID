@@ -1,8 +1,3 @@
-[spoil]
-[url]https://keylol.com/t232432-1-1[/url]
-[url]https://github.com/LeePich/Uplay_SaveGames_ID[/url]
-[/spoil]
-
 众所周知，Ubisoft游戏的Steam版、Uplay版是在同一个Uplay账户中是可以同时存在的，
 闲着没事，统计了下Ubisoft游戏存档的文件夹名称。
 两平台之间早期版本的游戏存档是不通用的，好像因为当初存档是用Key加密的。
@@ -125,11 +120,12 @@
 [tr][td][align=center][backcolor=cyan]10885[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]10886[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]11903[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Tom Clancy's Ghost Recon Breakpoint[/backcolor][/td][/tr]
+[tr][td][align=center][backcolor=cyan]11957[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Hyper Scape[/backcolor] (超猎都市)[/td][/tr]
 [tr][td][align=center][backcolor=cyan]13800[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Anno 1800 - Open Beta[/backcolor] 大概[/td][/tr]
 [/table]手头只有部分游戏，所以数据也不全，大家有其他Ubisoft游戏存档的文件夹名称也分享下吧
 {:17_1008:}
 
-[size=5][b][color=Red]一些其他游戏的存档位置、备注、说明[/color][/b][/size]
+[size=3][b][color=Red]一些其他游戏的存档位置、备注、说明[/color][/b][/size]
 [spoil]其他一些游戏的存档并不在Uplay文件夹里，而是在别的位置。
 [quote]文档(我的文档)根目录下
 （C:\Users\%UserName%\Documents、%UserProfile%\Documents）
@@ -179,7 +175,7 @@ Steam ID：10873
 [/quote]
 [/spoil]
 
-[size=4][b][color=Red]关于Steam版的Ubisoft游戏、Uplay原版的Ubisoft游戏的DLC共用相关问题[/color][/b][/size]
+[size=3][b][color=Red]关于Steam版的Ubisoft游戏、Uplay原版的Ubisoft游戏的DLC共用相关问题[/color][/b][/size]
 [spoil][quote][url=https://keylol.com/forum.php?mod=redirect&goto=findpost&ptid=231877&pid=3403301]两版本DLC是通用的！[/url]
 [/quote]
 [quote]只是当Steam拥有本体，Uplay上激活Uplay版DLC时，受限于Steam不知道Uplay上激活了DLC，Steam可能不会下载相关文件或者不会加载相关文件。
@@ -196,7 +192,7 @@ Steam ID：10873
 [/quote]
 [/spoil]
 
-[size=4][b][color=Red]关于激活的一些问题！[/color][/b][/size]
+[size=3][b][color=Red]关于激活的一些问题！[/color][/b][/size]
 [spoil][quote]上面提到Steam版和Uplay版激活后是可以共存的，
 然而当同为Uplay版的同一个游戏再次激活时，Uplay客户端并不会像Steam客户端那样提示已拥有，
 而是直接覆盖掉已拥有的游戏！同时覆盖旧Key显示新Key！
@@ -209,14 +205,14 @@ Steam ID：10873
 [/quote]
 [/spoil]
 
-[size=4][b][color=Red]关于《Steam版激活至Uplay上的种种问题》的解答[/color][/b][/size]
+[size=3][b][color=Red]关于《Steam版激活至Uplay上的种种问题》的解答[/color][/b][/size]
 https://keylol.com/t464415-1-1
 
-[size=4][b][color=Red]关于成就[/color][/b][/size]
+[size=3][b][color=Red]关于成就[/color][/b][/size]
 [spoil]
 通过如上一顿存档操作得知，使用他人存档运行游戏时，部分游戏可以直接解锁一些成就
 
-由[url=t256605-1-1]另一顿操作[/url]使我们得知
+由[url=https://keylol.com/t256605-1-1]另一顿操作[/url]使我们得知
 成就可以直接通过相应文件直接解开，而无需下载游戏
 部分成就文件名与存档文件夹名不一样，可以把现有成就文件全部删除，然后点开对应游戏的成就，新生成的文件一般就是那个游戏相应的成就文件
 
@@ -224,10 +220,10 @@ https://keylol.com/t464415-1-1
 [code]%UserProfile%\AppData\Local\Ubisoft Game Launcher\spool[/code]
 [/spoil]
 
-[size=5][b][color=Red]其他参考资料[/color][/b][/size]
+[size=3][b][color=Red]其他参考资料[/color][/b][/size]
 [spoil][quote][url=https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt]github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt[/url]（第一组数字是Uplay内部编号，第二组数字未知）感谢粉枪大佬提供的连接
 [url=https://github.com/Haoose/UPLAY_GAME_ID]github.com/Haoose/UPLAY_GAME_ID[/url]
-[url=https://keylol.com/t85575-1-1]keylol.com/t85575-1-1[/url]
+https://keylol.com/t85575-1-1
 这两个链接里所提供的数据都是[color=Red]Uplay游戏内部编号[/color]，
 用Uplay下载游戏时，你可以看到Installers或uplay_download文件夹中会有数字文件夹，就是这个内部编号。
 一般存档编号跟Uplay内部编号是一样的，当然也部分游戏存档会存在别的地方，
@@ -235,7 +231,15 @@ https://keylol.com/t464415-1-1
 [/quote]
 [/spoil]
 
-无关紧要的
-[spoil]
+[size=3][b][color=Red]【Uplay存档备份器】妈妈再也不用担心我的育碧游戏丢档啦！[/color][/b][/size]
+https://keylol.com/t353640-1-1
+
+[size=3][b][color=Red]刺客信条全系列存档ID转换工具ACSaveTool[/color][/b][/size]
+https://keylol.com/t438734-1-1
+
+无关紧要的[spoil]
+[url]https://keylol.com/t232432-1-1[/url]
+[url]https://github.com/LeePich/Uplay_SaveGames_ID[/url]
+
 [attachimg]314859[/attachimg]
 [/spoil]
