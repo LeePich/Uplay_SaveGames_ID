@@ -108,14 +108,15 @@
 [steam=http://store.steampowered.com/app/719690]Tom Clancy's Ghost Recon Wildlands Ghost War PVP Open Beta[/steam][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5059[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/steam][/backcolor][/td][/tr]
 [tr][td][align=center]5092[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/steam][/td][/tr]
-[tr][td][align=center][backcolor=cyan]5100[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/775430]Discovery Tour: Ancient Egyp by Assassin’s Creed[/steam][/backcolor] (发现之旅: 古埃及)[/td][/tr]
+[tr][td][align=center][backcolor=cyan]5100[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/775430]Discovery Tour: Ancient Egyp by Assassin’s Creed[/steam][/backcolor] [url=https://store.ubi.com/5a7d728d0c8ee45b54018f25.html](发现之旅: 古埃及)[/url][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5183[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/911400]Assassin's Creed 3 Remastered[/steam][/backcolor] 《解放》存档位于“文档”[/td][/tr]
 [tr][td][align=center]5184[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/911400]Assassin's Creed 3 Remastered[/steam] 《解放》存档位于“文档”[/td][/tr]
 [tr][td][align=center][backcolor=cyan]5210[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam][/backcolor] [url=https://keylol.com/t466212-1-1].[/url][/td][/tr]
 [tr][td][align=center]5211[/align][/td][td][align=center]Steam[/align][/td][td][steam=http://store.steampowered.com/app/939960]Far Cry New Dawn[/steam] [url=https://keylol.com/t466212-1-1].[/url][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5233[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/1004390]Trials Rising - Open Beta[/steam][/backcolor][/td][/tr]
-[tr][td][align=center][backcolor=cyan]5277[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/950050]StarLink: Battle for Atlas[/steam][/backcolor] (星链：阿特拉斯之战)[/td][/tr]
+[tr][td][align=center][backcolor=cyan]5277[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/950050]StarLink: Battle for Atlas[/steam][/backcolor] (星链: 阿特拉斯之战)[/td][/tr]
 [tr][td][align=center][backcolor=cyan]5404[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=https://store.ubi.com/5a7d728d0c8ee45b54018f23.html]Discovery Tour: Ancient Greece by Ubisoft[/steam][/backcolor] (发现之旅: 古希腊)[/td][/tr]
+[tr][td][align=center][backcolor=cyan]5405[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=https://store.ubi.com/5cec210a39798c0870c07684.html]Immortals Fenyx Rising[/steam][/backcolor] (渡神纪: 芬尼斯崛起)[/td][/tr]
 [tr][td][align=center][backcolor=cyan]5408[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Rabbids Coding![/backcolor] 大概[/td][/tr]
 [tr][td][align=center][backcolor=cyan]9797[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.ubi.com/5a16b08788a7e3d65873c4c1.html]ODE[/steam][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]10885[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][steam=http://store.steampowered.com/app/747500]Steep Road To The Olympics Beta[/steam][/backcolor][/td][/tr]
@@ -166,7 +167,7 @@ Steam存档文件夹(Steam安装文件夹\userdata\账号短ID\)
 [/quote]
 [quote]注册表类
 [steam=http://store.steampowered.com/app/647570]Transference[/steam] [url=https://keylol.com/t441478-1-1].[/url]
-[HKEY_CURRENT_USER\Software\Ubisoft\Transference]（计算机\HKEY_CURRENT_USER\Software\Ubisoft\Transference）
+[HKEY_CURRENT_USER\Software\Ubisoft\Transference]
 Uplay ID：10871
 Steam ID：10873
 [/quote]
