@@ -55,7 +55,7 @@
 [tr][td][align=center][backcolor=cyan]1176[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/321960]Might & Magic: Heroes VII[/url][/backcolor][/td][/tr]
 [tr][td][align=center]1177[/align][/td][td][align=center]Steam[/align][/td][td][url=https://store.steampowered.com/app/321960]Might & Magic: Heroes VII[/url][/td][/tr]
 [tr][td][align=center][backcolor=cyan]1253[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/375910]Anno 2205[/url][/backcolor][/td][/tr]
-[tr][td][align=center][backcolor=darkorange]1348[/backcolor][/align][/td][td][align=center][backcolor=darkorange]土豆中国/杉果[/backcolor][/align][/td][td][backcolor=darkorange][url=https://www.sonkwo.com/products/2054][/backcolor]Child of Light[/url] 特供版[/td][/tr]
+[tr][td][align=center][backcolor=darkorange]1348[/backcolor][/align][/td][td][align=center][backcolor=darkorange]土豆中国/杉果[/backcolor][/align][/td][td][url=https://www.sonkwo.com/products/2054]Child of Light[/url] 特供版[/td][/tr]
 [tr][td][align=center][backcolor=cyan]1428[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/243470]Watch_Dogs[/url][/backcolor] US?[/td][/tr]
 [tr][td][align=center][backcolor=cyan]1651[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/354380]Assassin's Creed Chronicles China[/url][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]1661[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/311560]Assassin's Creed Rogue[/url][/backcolor] Asia[/td][/tr]
@@ -115,6 +115,7 @@
 [tr][td][align=center][backcolor=cyan]5210[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/939960]Far Cry New Dawn[/url][/backcolor] [url=https://keylol.com/t466212-1-1].[/url][/td][/tr]
 [tr][td][align=center]5211[/align][/td][td][align=center]Steam[/align][/td][td][url=https://store.steampowered.com/app/939960]Far Cry New Dawn[/url] [url=https://keylol.com/t466212-1-1].[/url][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5233[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/1004390]Trials Rising - Open Beta[/url][/backcolor][/td][/tr]
+[tr][td][align=center][backcolor=cyan]5271[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan]Rainbow Six Codenamed Parasite Technical Test[/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5277[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/950050]StarLink: Battle for Atlas[/url][/backcolor] (星链: 阿特拉斯之战)[/td][/tr]
 [tr][td][align=center][backcolor=cyan]5404[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.ubi.com/5a7d728d0c8ee45b54018f23.html]Discovery Tour: Ancient Greece by Ubisoft[/url][/backcolor] (发现之旅: 古希腊)[/td][/tr]
 [tr][td][align=center][backcolor=cyan]5405[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.ubi.com/5cec210a39798c0870c07684.html]Immortals Fenyx Rising[/url][/backcolor] (渡神纪: 芬尼斯崛起)[/td][/tr]
@@ -220,9 +221,10 @@ https://keylol.com/t464415-1-1
 由[url=https://keylol.com/t256605-1-1]另一顿操作[/url]使我们得知
 成就可以直接通过相应文件直接解开，而无需下载游戏
 部分成就文件名与存档文件夹名不一样，可以把现有成就文件全部删除，然后点开对应游戏的成就，新生成的文件一般就是那个游戏相应的成就文件
+部分文件名可以参考2楼
 
 成就文件变量路径
-[code]%UserProfile%\AppData\Local\Ubisoft Game Launcher\spool[/code]
+[code]%LocalAppdata%\Ubisoft Game Launcher\spool[/code]
 [/spoil]
 
 [size=3][b][color=Red]其他参考资料[/color][/b][/size]
