@@ -58,6 +58,7 @@
 [tr][td][align=center][backcolor=darkorange]1348[/backcolor][/align][/td][td][align=center][backcolor=darkorange]土豆中国/杉果[/backcolor][/align][/td][td][url=https://www.sonkwo.com/products/2054]Child of Light[/url] 特供版[/td][/tr]
 [tr][td][align=center][backcolor=cyan]1428[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/243470]Watch_Dogs[/url][/backcolor] US?[/td][/tr]
 [tr][td][align=center][backcolor=cyan]1651[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/354380]Assassin's Creed Chronicles China[/url][/backcolor][/td][/tr]
+[tr][td][align=center][backcolor=cyan]1653[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/339230]ZOMBI[/url][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]1661[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/311560]Assassin's Creed Rogue[/url][/backcolor] Asia[/td][/tr]
 [tr][td][align=center][backcolor=cyan]1771[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/460930]Tom Clancy's Ghost Recon Wildlands[/url][/backcolor][/td][/tr]
 [tr][td][align=center][backcolor=cyan]1803[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/552520]Far Cry 5[/url][/backcolor][/td][/tr]
@@ -231,7 +232,8 @@ https://keylol.com/t464415-1-1
 [spoil][quote][url=https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt]github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt[/url]（第一组数字是Uplay内部编号，第二组数字未知）感谢粉枪大佬提供的连接
 [url=https://github.com/Haoose/UPLAY_GAME_ID]github.com/Haoose/UPLAY_GAME_ID[/url]
 https://keylol.com/t85575-1-1
-这两个链接里所提供的数据都是[color=Red]Uplay游戏内部编号[/color]，
+https://github.com/wTonyChen/Uplay-AppID-List
+这三个链接里所提供的数据都是[color=Red]Uplay游戏内部编号[/color]，
 用Uplay下载游戏时，你可以看到Installers或uplay_download文件夹中会有数字文件夹，就是这个内部编号。
 一般存档编号跟Uplay内部编号是一样的，当然也部分游戏存档会存在别的地方，
 但是鉴于以上数据中繁杂的游戏版本，就不加入到列表当中，仅供大家参考了
