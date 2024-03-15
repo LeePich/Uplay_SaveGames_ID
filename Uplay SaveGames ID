@@ -1,5 +1,5 @@
-众所周知，Ubisoft游戏的Steam版、Uplay版是在同一个Uplay账户中是可以同时存在的，
-闲着没事，统计了下Ubisoft游戏存档的文件夹名称。
+众所周知，Ubisoft公司的游戏 Uplay版、Steam版在同一个Uplay账户中是可以同时存在的，
+早年闲着没事，统计了下Ubisoft游戏存档的文件夹名称。
 两平台之间早期版本的游戏存档是不通用的，好像因为当初存档是用Key加密的。
 最近一些版本的游戏存档好像是用帐号序列加密的，所以部分能通用。
 
@@ -122,6 +122,7 @@
 [tr][td][align=center]4923[/align][/td][td][align=center]Steam[/align][/td][td][url=https://store.steampowered.com/app/582160]Assassin's Creed Origins[/url][/td][/tr]
 [tr][td][align=center]4984[/align][/td][td][align=center]Steam[/align][/td][td][url=https://store.steampowered.com/app/584210]Tom Clancy's Ghost Recon Wildlands Open Beta[/url]
 [url=https://store.steampowered.com/app/719690]Tom Clancy's Ghost Recon Wildlands Ghost War PVP Open Beta[/url][/td][/tr]
+[tr][td][align=center][backcolor=cyan]5042[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/229790]Might & Magic: Heroes VI[/url][/backcolor] - Complete Edition[/td][/tr]
 [tr][td][align=center][backcolor=cyan]5059[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/url][/backcolor][/td][/tr]
 [tr][td][align=center]5092[/align][/td][td][align=center]Steam[/align][/td][td][url=https://store.steampowered.com/app/812140]Assassin's Creed Odyssey[/url][/td][/tr]
 [tr][td][align=center][backcolor=cyan]5100[/backcolor][/align][/td][td][align=center][backcolor=cyan]Uplay[/backcolor][/align][/td][td][backcolor=cyan][url=https://store.steampowered.com/app/775430]Discovery Tour: Ancient Egyp by Assassin’s Creed[/url][/backcolor] [url=https://store.ubi.com/5a7d728d0c8ee45b54018f25.html](发现之旅: 古埃及)[/url][/td][/tr]
@@ -257,10 +258,11 @@ https://keylol.com/t464415-1-1
 [/spoil]
 
 [size=3][b][color=Red]其他参考资料[/color][/b][/size]
-[spoil][quote][url=https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt]github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt[/url]（第一组数字是Uplay内部编号，第二组数字未知）感谢粉枪大佬提供的连接
-[url=https://github.com/Haoose/UPLAY_GAME_ID]github.com/Haoose/UPLAY_GAME_ID[/url]
-https://keylol.com/t85575-1-1
-https://github.com/wTonyChen/Uplay-AppID-List
+[spoil][quote]
+[url]https://keylol.com/t85575-1-1[/url]
+[url]https://github.com/Haoose/UPLAY_GAME_ID[/url]
+[url]https://github.com/wTonyChen/Uplay-AppID-List[/url]
+[url]https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt[/url]（第一组数字是Uplay内部编号，第二组数字未知）感谢粉枪大佬提供的连接
 这三个链接里所提供的数据都是[color=Red]Uplay游戏内部编号[/color]，
 用Uplay下载游戏时，你可以看到Installers或uplay_download文件夹中会有数字文件夹，就是这个内部编号。
 一般存档编号跟Uplay内部编号是一样的，当然也部分游戏存档会存在别的地方，
@@ -277,6 +279,7 @@ https://keylol.com/t438734-1-1
 无关紧要的[spoil]
 [url]https://keylol.com/t232432-1-1[/url]
 [url]https://github.com/LeePich/Uplay_SaveGames_ID[/url]
+[url]https://gitee.com/LeePich/Uplay[/url]
 [url]https://zhuanlan.zhihu.com/p/629592947[/url]
 
 [attachimg]314859[/attachimg]
